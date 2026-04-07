@@ -1,4 +1,3 @@
-# Hey there, I'm [Ahmed Saied](https://Ahmed Saied.vercel.app/) 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Ahmed%20Saied&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
