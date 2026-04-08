@@ -1,63 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Ahmed%20Saied&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AHMED-SAIED346">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Front-End+Engineer;Next.js+Expert;UI/UX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://github.com/Ahmed-Saied346">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلا+بكم+في+مساحتي+الخاصة+للإبداع&font=Bold%20Code&size=30&center=true&color=FF69B4&pause=2000" />
   </a>
 </p>
 
----
 
-### ⚡ About Me
+<h1 align="center">Hi, I'm Ahmed Saied🥰 </h1>
 
-I am a **Front-End Software Engineer** with a strong focus on building high-performance, scalable, and visually stunning web applications. With expertise in the **React ecosystem** and **Next.js**, I bridge the gap between complex backend logic and seamless user experiences.
+<h2 align="center">
+  Software Engineer | Frontend Developer | Node.js | MERN Stac
+</h2>
 
-- 🏢 **Currently:** Developing at **Quran Foundation**.
-- 🛠️ **Expertise:** Architecting modern UIs with **TypeScript** and **Tailwind CSS**.
-- 🎯 **Goal:** Mastering Full-Stack capabilities and Cloud-Native deployments.
-- ⚡ **Fact:** I believe that clean code is just as important as a clean UI.
-
----
-
-### 🚀 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,nodejs,mongodb,mysql,git,vscode,postman,wordpress&perline=8" />
-</div>
-
----
-
-### 📈 GitHub Ecosystem
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-SAIED346&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=AHMED-SAIED346&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" width="45%" />
+  <a href="https://github.com/PixelByKhadija">
+    <img src="https://komarev.com/ghpvc/?username=PixelByKhadija&style=flat&color=FF69B4" height="30"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED-SAIED346&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" width="94%" />
-</p>
 
----
 
-### 📫 Connect with Me
+<h2>📤 Connect & Competitive Programming</h2>
 
 <p align="left">
-  <a href="mailto:ahmedsaiedkhalaf2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="www.linkedin.com/in/ahmed-said-161789328/">
+    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="55"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
+  &nbsp;&nbsp;
 </p>
 
-<br />
+
+<h2>🛠️ Top Technical Skills & Tools</h2>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,cpp&perline=5"
+    width="420"
+  />
+</p>
+
+
+
+
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake.gif" width="800" />
+  </picture>
 </p>
